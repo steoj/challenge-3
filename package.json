@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Internal build and deployment pipeline",
   "scripts": {
-    "build": "echo 'Build complete'",
+    "build": "echo 'Build complete and more'",
     "test": "echo 'No tests defined'",
     "start": "node index.js"
   },
